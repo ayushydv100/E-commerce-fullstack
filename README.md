@@ -1,0 +1,1 @@
+A powerful, full-stack e-commerce project using the MERN stack. This project provides everything you need to build a modern online store, from product management and shopping cart functionality to user authentication.
